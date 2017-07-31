@@ -11,7 +11,7 @@ Bulkindex - Creates the index of listings for similarity search. Using Okapi BM2
 
 Search Listing - Finds similar items for a given test item(s) as per the above
 
-![alt text](https://github.com/orlevi18/similar_item_recommendation_elastic_search/some_examples.png?raw=true)
+![alt text](https://github.com/orlevi18/similar_item_recommendation_elastic_search/blob/master/some_examples.png?raw=true)
 
 # dependcies
 elasticsearch - see here how to install on windows: https://www.youtube.com/watch?v=l6wXE5SBJ_A
