@@ -9,7 +9,7 @@ Bulkindex - Creates the index of listings for similarity search. Using Okapi BM2
 2. Reading file with data to index
 3. Indexing batches of 10k items
 
-Search Listing - Finds similar items for a given test item(s)
+Search Listing - Finds similar items for a given test item(s) as per the above
 
 # dependcies
 elasticsearch - see here how to install on windows: https://www.youtube.com/watch?v=l6wXE5SBJ_A
